@@ -7,7 +7,7 @@ Credit cards are an essential tool of payment in modern society. Card holders ge
 
 Goal:
 
-The research is aimed at finding out variables essential to predicting the probability of credit cards default as well as the most satisfying predictive model.
+The research is aimed at finding out variables essential to predicting the probability of credit cards default as well as choosing the most satisfying predictive model.
 
 Dataset：
 
