@@ -3,7 +3,7 @@ Team member: Yunhe Zhang(1701213157)
 
 Background:
 
-Credit cards are an essential tool of payment in modern society. Card holders get a convenient way of payment as well as the right of overdraft, and banks earn fees and interest. But frequently happened default of credit cards makes banks be more alert on card holders’ qualifications. Thus it is useful to identify the relationship between card holders’ characteristics and the probability of default. Research results may also be helpful for related researches on virtual credit cards such as Mayi Huabei.
+Credit cards are essential tools of payment in modern society. Card holders get a convenient way of payment as well as the right of overdraft, and banks earn fees and interest. But frequently happened default of credit cards makes banks be more alert on card holders’ qualifications. Thus it is useful to identify the relationship between card holders’ characteristics and the probability of default. Research results may also be helpful for related researches on virtual credit cards such as Mayi Huabei.
 
 Goal:
 
