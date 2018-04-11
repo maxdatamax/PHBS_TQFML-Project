@@ -1,5 +1,5 @@
 # PHBS_TQFML-Predicting-default-of-credit-cards-clients
-Yunhe Zhang  1701213157
+Team member: Yunhe Zhang(1701213157)
 
 Background:
 
@@ -8,6 +8,10 @@ Credit cards are an essential tool of payment in modern society. Card holders ge
 Goal:
 
 The research is aimed at finding out variables essential to predicting the probability of credit cards default as well as the most satisfying predictive model.
+
+Dataset：
+
+http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
 Data description:
 
