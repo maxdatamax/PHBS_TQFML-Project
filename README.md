@@ -49,4 +49,4 @@ Before classification analysis, I preprocess data at first.
 
 Comparing results of 3 models, we can see that test accuracy of logistics regression is the lowest,but it has the highest ratio of 1-False Positive rate.Considering its test accuracy is not so much lower and its 1-FPR is much higher than others, logistics regression has the most predictive power in this case.
 
-See [.ipynb](PHBS_TQFML-Project/Predicting Fraud Mobile Money Transactions.ipynb) for more details.
+See [.ipynb](https://github.com/zhang-yunhe/PHBS_TQFML-Project/Predicting Fraud Mobile Money Transactions.ipynb) for more details.
