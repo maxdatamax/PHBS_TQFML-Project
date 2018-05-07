@@ -48,21 +48,21 @@ Before classification analysis, I preprocess data at first.
 ## Conclusion:
 
 
-Accuracy:
+### Accuracy:
 Logistics Regression: 0.948
 
 Random Forest: 0.998
 
 KNN:0.999
 
-1-FPR:
+### 1-FPR:
 Logistics Regression: 0.7849
 
 Random Forest: 0.3380
 
 KNN:0.3340
 
-CV Accuracy:
+### CV Accuracy:
 Logistics Regression: 0.948
 
 Random Forest: 0.998
