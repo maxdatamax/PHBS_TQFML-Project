@@ -42,8 +42,8 @@ Before classification analysis, I preprocess data at first.
 ### Classification
 * Methods:Logistics regression, random forest and KNN
 * Technique:Linear Discriminant Analysis, class weight= balanced
-* Model tuning: Stratified K-fold cross validation  
 * Evaluation metrics:Accuracy and FPR 
+* Model tuning: Stratified K-fold cross validation  
 
 ## Conclusion:
 
