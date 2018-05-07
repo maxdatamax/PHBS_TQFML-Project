@@ -43,7 +43,7 @@ Before classification analysis, I preprocess data at first.
 * Methods:Logistics regression, random forest and KNN
 * Model tuning: Stratified K-fold cross validation  
 * Evaluation metrics:Accuracy and FPR 
-* Technique:Assigning a larger penalty to wrong predictions on the minority class to deal with class imbalance problem
+* Technique:Linear Discriminant Analysis, class weight= balanced
 
 ## Conclusion:
 
