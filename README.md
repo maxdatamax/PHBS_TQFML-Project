@@ -19,6 +19,7 @@ The research is aimed at finding out the most satisfying model to predict whethe
 ## Data description:
 
 Dataset used is called "Synthetic Financial Datasets For Fraud Detection", chosen from Kaggle website. The dataset contains 6,362,619 transactions. There are 11 variables in total. Variable "isFraud" is the target variable that we want to predict. Dependent variables include transaction type, amount, transaction starter's and receiver's balance account before and after transaction. The dataset is imbalanced because 99.87% of transactions are not fraud vesus 0.13% of transactions are.
+![](https://github.com/zhang-yunhe/PHBS_TQFML-Project/blob/master/1.png)
 * Independent Variable: isFraud
 * Dependent Variable:
   * step:a unit of time in the real world(1 step is 1 hour of time)
