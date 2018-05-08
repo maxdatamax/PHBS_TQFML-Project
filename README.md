@@ -59,9 +59,15 @@ KNN:0.999
 ### 1-FPR:
 Logistics Regression: 0.7849
 
+![](https://github.com/zhang-yunhe/PHBS_TQFML-Project/blob/master/2.png)
+
 Random Forest: 0.3380
 
+![](https://github.com/zhang-yunhe/PHBS_TQFML-Project/blob/master/3.png)
+
 KNN:0.3340
+
+![](https://github.com/zhang-yunhe/PHBS_TQFML-Project/blob/master/4.png)
 
 ### CV Accuracy:
 Logistics Regression: 0.948
